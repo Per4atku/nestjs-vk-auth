@@ -17,4 +17,5 @@ model User {
   displayName  String
   profileURL   String
   profilePhoto String?
+  refreshToken String
 }
